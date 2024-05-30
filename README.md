@@ -41,7 +41,7 @@ Your Search | ....
 
 
 
-# Note: You can change your day_off by editing this line: 
+# Note: You can change your day_off by editing this line
 
 In my example I used Thursday and Friday
 
