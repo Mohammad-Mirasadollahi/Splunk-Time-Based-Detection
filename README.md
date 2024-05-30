@@ -39,6 +39,7 @@ Your Search | ....
 
 ![image](https://github.com/Mohammad-Mirasadollahi/Splunk-Holiday-day-off-Business-hours/assets/150103330/3d848b9e-2476-4979-b4cb-c5b6756339b9)
 
+Note: You must put this at the end of your commands. Also, for simplicity, you can use a macro for this search.
 
 
 # Note: You can change your day_off by editing this line
