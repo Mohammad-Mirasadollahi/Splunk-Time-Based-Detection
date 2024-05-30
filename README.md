@@ -37,6 +37,10 @@ Your Search | ....
 | eval is_business_hours=if(isnotnull(is_business_hours),"Yes","No")
 
 
+![image](https://github.com/Mohammad-Mirasadollahi/Splunk-Holiday-day-off-Business-hours/assets/150103330/3d848b9e-2476-4979-b4cb-c5b6756339b9)
+
+
+
 # Note: You can change your day_off by editing this line: In my example I used Thursday and Friday
 
 | eval is_day_off=if(day_of_week=="Thursday","Yes",if(day_of_week=="Friday","Yes","No"))
