@@ -41,6 +41,8 @@ Your Search | ....
 
 
 
-# Note: You can change your day_off by editing this line: In my example I used Thursday and Friday
+# Note: You can change your day_off by editing this line: 
+
+In my example I used Thursday and Friday
 
 | eval is_day_off=if(day_of_week=="Thursday","Yes",if(day_of_week=="Friday","Yes","No"))
