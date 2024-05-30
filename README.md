@@ -1,7 +1,7 @@
 # Splunk-Holiday-day-off-Business-hours
 In Splunk you can create your correlation searches based on Holiday, Day off and Business hours.
 
-# Upload your Desired Lookup file
+# Upload your Desired Lookup Files
 
 You need 2 Lookup Files.
 
